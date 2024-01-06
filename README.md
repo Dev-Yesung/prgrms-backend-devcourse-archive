@@ -34,17 +34,17 @@
 ## 피어리뷰
 |피어리뷰 회차|링크|
 |:--------:|:--:|
-|1차 피어리뷰|[원본 링크]()<br>[회고 링크](https://blog.naver.com/yosong_is_yosong/223144360769)|
-|2차 피어리뷰|[원본 링크]()<br>[회고 링크](https://blog.naver.com/yosong_is_yosong/223226740944)|
-|3차 피어리뷰|[원본 링크]()<br>[회고 링크](https://blog.naver.com/yosong_is_yosong/223249169760)|
+|1차 피어리뷰|[원본 링크](https://github.com/Dev-Yesung/prgrms-backend-devcourse-archive/blob/f3d32774c76ec7b4690cccf3dc765607a78a832d/(%E1%84%86%E1%85%A6%E1%86%AB%E1%84%90%E1%85%B5)%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%83%E1%85%A6%E1%84%87%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%89%E1%85%B3%204%E1%84%80%E1%85%B5%20%E1%84%91%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%20%E1%84%80%E1%85%A9%E1%84%8B%E1%85%A8%E1%84%89%E1%85%A5%E1%86%BC.pdf)<br>[회고 링크](https://blog.naver.com/yosong_is_yosong/223144360769)|
+|2차 피어리뷰|[원본 링크](https://github.com/Dev-Yesung/prgrms-backend-devcourse-archive/blob/f3d32774c76ec7b4690cccf3dc765607a78a832d/(%E1%84%86%E1%85%A6%E1%86%AB%E1%84%90%E1%85%B5)%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%83%E1%85%A6%E1%84%87%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%89%E1%85%B3%204%E1%84%80%E1%85%B5%20New%201%E1%84%8E%E1%85%A1%20%E1%84%91%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%20%E1%84%80%E1%85%A9%E1%84%8B%E1%85%A8%E1%84%89%E1%85%A5%E1%86%BC.docx.pdf)<br>[회고 링크](https://blog.naver.com/yosong_is_yosong/223226740944)|
+|3차 피어리뷰|[원본 링크](https://github.com/Dev-Yesung/prgrms-backend-devcourse-archive/blob/f3d32774c76ec7b4690cccf3dc765607a78a832d/(%E1%84%86%E1%85%A6%E1%86%AB%E1%84%90%E1%85%B5)%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3%20%E1%84%83%E1%85%A6%E1%84%87%E1%85%B3%E1%84%8F%E1%85%A9%E1%84%89%E1%85%B3%204%E1%84%80%E1%85%B5%20New%202%E1%84%8E%E1%85%A1%20%E1%84%91%E1%85%B5%E1%84%8B%E1%85%A5%E1%84%85%E1%85%B5%E1%84%87%E1%85%B2%20%E1%84%80%E1%85%A9%E1%84%8B%E1%85%A8%E1%84%89%E1%85%A5%E1%86%BC.docx.pdf)<br>[회고 링크](https://blog.naver.com/yosong_is_yosong/223249169760)|
 |4차 피어리뷰|업로드 예정|
 
 ## 발표
 |발표 제목|링크|
 |:-----:|:-:|
-|바로 써먹는<br>스프링 시큐리티<br>OAuth2 Client|[유튜브](https://youtu.be/Fm-OUjwlTOI?si=wOnp9lAb2tpLhSIy)|
-|쿠키와 JWT|[유튜브](https://youtu.be/EktLFMk-Qe8?si=ukAD_lNX44aDFhIM)|
-|자바의 동적 바인딩|[업로드 예정..]()|
+|바로 써먹는<br>스프링 시큐리티<br>OAuth2 Client|[발표자료](https://github.com/Dev-Yesung/prgrms-backend-devcourse-archive/blob/f3d32774c76ec7b4690cccf3dc765607a78a832d/%E1%84%87%E1%85%A1%E1%84%85%E1%85%A9%20%E1%84%8A%E1%85%A5%E1%84%86%E1%85%A5%E1%86%A8%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%89%E1%85%B3%E1%84%91%E1%85%B3%E1%84%85%E1%85%B5%E1%86%BC%20%E1%84%89%E1%85%B5%E1%84%8F%E1%85%B2%E1%84%85%E1%85%B5%E1%84%90%E1%85%B5%20OAuth2%20Client.pdf)<br>[유튜브](https://youtu.be/Fm-OUjwlTOI?si=wOnp9lAb2tpLhSIy)|
+|쿠키와 JWT|[발표자료](https://github.com/Dev-Yesung/prgrms-backend-devcourse-archive/blob/f3d32774c76ec7b4690cccf3dc765607a78a832d/%E1%84%8F%E1%85%AE%E1%84%8F%E1%85%B5%2C%20%E1%84%89%E1%85%A6%E1%84%89%E1%85%A7%E1%86%AB%2C%20jwt%20-%20%E1%84%80%E1%85%A9%E1%84%8B%E1%85%A8%E1%84%89%E1%85%A5%E1%86%BC.pdf)<br>[유튜브](https://youtu.be/EktLFMk-Qe8?si=ukAD_lNX44aDFhIM)|
+|자바의 동적 바인딩|[발표자료](https://github.com/Dev-Yesung/prgrms-backend-devcourse-archive/blob/f3d32774c76ec7b4690cccf3dc765607a78a832d/%E1%84%83%E1%85%A9%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%83%E1%85%B5%E1%86%BC%20%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%87%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%83%E1%85%B5%E1%86%BC.pdf)<br>[영상 업로드 예정]()|
 
 ## 해커톤
 에프팀 자체 해커톤 행사 참여
