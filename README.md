@@ -21,8 +21,8 @@
 ## 팀 프로젝트
 |프로젝트 명|인원|개요 및 목표|역할|링크|기간|
 |:------------------:|:----------------:|:----------:|:-:|:--:|:-:|
-|고수캐처(GosuCatcher)|백엔드 5명|도움이 필요한 일을 도와줄<br>‘고수’를 매칭해주는 서비스<br>(‘숨고(Soomgo)’ 클론 코딩)|인증/인가<br>유저 도메인|[레포지토리](https://github.com/prgrms-be-devcourse/BE-04-GosuCatcher)|2023.08.26<br>~ 2023.09.22|
-|딜라잇(Dealight)|프론트엔드 4명<br>백엔드 5명|소상공인들의 당일 폐기 예정 식품의<br>할인 정보 공유 및 구매/판매 서비스|인증/인가<br>유저 도메인 일부<br>인프라<br>시스템 아키텍처|[레포지토리](https://github.com/Team-PalPalHae-Dealight/Team-PalPalHae-Dealight-BE)|2023.10.12<br>~ 2023.12.04|
+|고수캐처(GosuCatcher)|백엔드 5명|도움이 필요한 일을 도와줄<br>‘고수’를 매칭해주는 서비스<br>(‘숨고(Soomgo)’ 클론 코딩)|인증/인가,<br>유저 도메인|[레포지토리](https://github.com/prgrms-be-devcourse/BE-04-GosuCatcher)|2023.08.26<br>~ 2023.09.22|
+|딜라잇(Dealight)|프론트엔드 4명<br>백엔드 5명|소상공인들의 당일 폐기 예정 식품의<br>할인 정보 공유 및 구매/판매 서비스|인증/인가,<br>유저 도메인 일부,<br>인프라,<br>시스템 아키텍처|[레포지토리](https://github.com/Team-PalPalHae-Dealight/Team-PalPalHae-Dealight-BE)|2023.10.12<br>~ 2023.12.04|
 
 ## 스터디
 |스터디 명|인원|목표|비고|기간|
