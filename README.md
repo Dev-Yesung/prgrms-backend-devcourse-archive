@@ -1,6 +1,6 @@
 # prgrms-backend-devcourse-archive
 ![image](https://github.com/Dev-Yesung/prgrms-backend-devcourse-archive/assets/71485411/f0684a03-a9ef-4c74-9721-c2fcc6826194)
-2023.06.01 ~ 2023.12.04까지 진행했던 프로그래머스 백엔드 데브코스의 여정을 모았습니다.
+<br><br>2023.06.01 ~ 2023.12.04까지 진행했던 프로그래머스 백엔드 데브코스의 여정을 모았습니다.
 <br><br>
 [프로그래머스 백엔드 데브코스란?](https://school.programmers.co.kr/learn/courses/17921/17921-5%EA%B8%B0-k-digital-training-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EA%B8%B0%EB%B0%98-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81)<br>
 [상세커리큘럼 보기](https://prgrms.notion.site/5-d39781a3f2a7444bb9e4a29f02a4e9a8)<br>
