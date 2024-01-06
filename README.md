@@ -14,7 +14,7 @@
 |SpringBoot<br>미션 3차|thymeleaf를 이용한 페이지 구현과 API 연동|[PR 링크](https://github.com/prgrms-be-devcourse/springboot-basic/pull/824)|2023.07.07<br>~ 2023.07.14|
 |SpringBoot<br>A-Z 프로젝트|특정 서비스를 클론 코딩하는 프로젝트 구현|[레포지토리](https://github.com/Dev-Yesung/pineApple-Music)<br>[발표영상](https://present.do/@ysng/64bcf04110ab9a5ae56165c2)|2023.07.08<br>~ 2023.07.23|
 |SpringBoot JPA<br>1,2,3차 미션|JPA를 이용한 엔티티 연관관계 매핑 실습, CRUD 구현<br>영속성 컨텍스트의 엔티티 생명주기 실습|[PR 링크](https://github.com/prgrms-be-devcourse/springboot-jpa/pull/310)|2023.07.22<br>~ 2023.08.04
-|SpringBoot JPA<br>게시판 구현 미션|Spring Data JPA를 이용하여 게시판 구현 및 코드리뷰 연습|[링크](https://github.com/prgrms-be-devcourse/springboot-board-jpa/pull/254)|2023.07.22<br>~ 2023.08.04
+|SpringBoot JPA<br>게시판 구현 미션|Spring Data JPA를 이용하여 게시판 구현 및 코드리뷰 연습|[PR 링크](https://github.com/prgrms-be-devcourse/springboot-board-jpa/pull/254)|2023.07.22<br>~ 2023.08.04
 |SpringBoot<br>URL Shortener 구현 미션|Shortening Key를 생성하는 알고리즘을<br>2개 이상 제공하여 URL을 단축시키는 기능 구현|[PR 링크](https://github.com/prgrms-be-devcourse/springboot-url-shortener/pull/53)<br>[시연영상](https://vimeo.com/manage/videos/873085666)|2023.09.23<br>~ 2023.10.11
 
 
